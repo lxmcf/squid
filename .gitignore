@@ -1,0 +1,14 @@
+build/
+builddir/
+build-aux/
+subprojects/
+release/
+
+.vscode/
+
+*~
+
+.DS_Store
+out.txt
+
+application
